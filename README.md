@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **bigbossbry/bigbossbry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height="240" width="240">
     <div id="badges">
@@ -25,52 +27,121 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
         <a href="gmail">
-            <img src="https://img.shields.io/badge/MAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=bigbossbry&style=flat-square&color=blue" alt="visit counter"/>
-    <h1>
-        Hey there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+    <img src="https://komarev.com/ghpvc/?username=ramirezbryanc&style=flat-square&color=blue" alt="visit counter"/>
 </div>
 
-<div id="about_me" align="center">
-    <img src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif" width="300" height="300">
-</div>
-:man_technologist: About Me:  
+<br><br><br>
+
+
+# 👨‍💻 About Me:  
    
-I am a Self-Taught Full Stack Web Developer from the Philippines.  
-  
-- :computer: I am currently learning how to develop websites through project based learning by following the curriculums of The Odin Project and freeCodeCamp.
-- :thinking: Other interests include AI, Machine Learning, Graphic Design, and Technology.
-- :watch: I spend my spare time with my loved ones and my beloved dogs.
+I'm a Web Developer based in the Philippines. My journey into programming began with self-learning through The Odin Project's full stack curriculum. After mastering the fundamentals, I made the decision to advance my skills and transition into a career in web development by enrolling in the Zuitt Coding Bootcamp. This experience has equipped me with practical knowledge and a solid foundation to thrive in the dynamic field of web development.
  
----
+#
 
-### :wrench: Current Technologies and Tools:
+# 🔧 Current Technologies and Tools:
 
-<div>
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-  
----
+<table>
+    <tr>
+        <td align="center" height="108" width="108">
+            <img 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+                width="48"
+                height="48"
+                alt="HTML5" 
+            />
+            <br /><strong>HTML</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+                width="48"
+                height="48"
+                alt="CSS3"
+            />
+            <br /><strong>CSS</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+                width="48"
+                height="48"
+                alt="JavaScript"
+            />
+            <br /><strong>JavaScript</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"
+                width="48"
+                height="48"
+                alt="Tailwind CSS"
+            />
+            <br /><strong>Tailwind CSS</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                width="48"
+                height="48"
+                alt="React"
+            />
+            <br /><strong>React</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" height="108" width="108">
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            width="48"
+            height="48"
+            alt="Node"
+            />
+            <br /><strong>Node</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+                width="48"
+                height="48"
+                alt="Express"
+            />
+            <br /><strong>Express</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+                width="48"
+                height="48"
+                alt="MongoDB"
+            />
+            <br /><strong>MongoDB</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg"
+                width="48"
+                height="48"
+                alt="Git"
+            />
+            <br /><strong>Git</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img
+                src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg"
+                width="48"
+                height="48"
+                alt="Postman"
+            />
+            <br /><strong>Postman</strong>
+        </td>
+    </tr>
+</table>
 
-### :file_folder: CMS Software:
+# 🔥 Stats
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"  title="WordPress" alt="wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"  title="WooCommerce" alt="woocommerce" width="40" height="40"/>&nbsp;
-</div>    
-   
----
-
-### :hammer_and_wrench: Actively learning the following Technologies and Tools:
-
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ramirezbryanc" alt="GitHub Streak" /></a>
+    

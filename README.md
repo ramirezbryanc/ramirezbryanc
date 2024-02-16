@@ -23,9 +23,6 @@ Here are some ideas to get you started:
         <a href="LI-URL">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="threads/X/twitter-URL">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-        </a>
         <a href="gmail">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
         </a>
@@ -81,6 +78,15 @@ I'm a Web Developer based in the Philippines. My journey into programming began 
                 alt="Tailwind CSS"
             />
             <br /><strong>Tailwind CSS</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+                width="48"
+                height="48"
+                alt="Bootstrap"
+            />
+            <br /><strong>Bootstrap</strong>
         </td>
         <td align="center" height="108" width="108">
             <img

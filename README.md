@@ -149,5 +149,6 @@ I'm a Web Developer based in the Philippines. My journey into programming began 
 
 # 🔥 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ramirezbryanc)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ramirezbryanc" alt="GitHub Streak" /></a>
+
     

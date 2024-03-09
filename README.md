@@ -151,7 +151,7 @@ I'm a Web Developer based in the Philippines. My journey into programming began 
                 height="48"
                 alt="Material UI"
             />
-            <br /><strong>Postman</strong>
+            <br /><strong>Material UI</strong>
         </td>
     </tr>
 </table>
